@@ -7,7 +7,7 @@ This project demonstrates the training of a neural network on the MNIST dataset 
 ## Repository Contents
 
 The full source code for this project is available on GitHub at:
-**https://github.com/yourusername/Tensorflow-and-PyTorch-lab03-** (Remember to replace `yourusername` with your actual GitHub username!)
+**https://github.com/Yash-Savaliya-242/Tensorflow-and-PyTorch-lab03-** (Remember to replace `yourusername` with your actual GitHub username!)
 
 This repository includes:
 
