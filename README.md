@@ -28,10 +28,6 @@ This repository includes:
 ## How to Run
 
 1.  **Clone the Repository:**
-    ```bash
-    git clone [https://github.com/yourusername/Tensorflow-and-PyTorch-lab03-.git](https://github.com/yourusername/Tensorflow-and-PyTorch-lab03-.git)
-    cd Tensorflow-and-PyTorch-lab03-
-    ```
 2.  **Open in Google Colab (Recommended):**
     * Go to [Google Colab](https://colab.research.google.com/).
     * Click `File` > `Upload notebook`.
